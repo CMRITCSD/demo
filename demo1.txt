@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GreetUser {
+public class csd {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
